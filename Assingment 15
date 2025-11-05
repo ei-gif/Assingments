@@ -1,0 +1,12 @@
+#include<stdio.h> 
+int main() { 
+float a,b,c,D; 
+printf("Enter the value of a:"); 
+scanf("%f\n", &a); 
+printf("Enter the value of b:"); 
+scanf("%f\n", &b); 
+D= sqrt(b*b - 4ac); 
+printf("The first root is = %f\n", (-b+d\2*a)); 
+printf("The second root is = %f\n", (-b+d\2*a)); 
+return 0; 
+}
