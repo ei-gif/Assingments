@@ -1,0 +1,18 @@
+#include<stdio.h> 
+int main() { 
+double principle , r,t,n,amount , compound interest; 
+printf("Enter the principle amount: "); 
+scanf("%d\n , &priciple"); 
+printf("Enter the rate"); 
+scanf("%d\n , &rate"); 
+printf("Enter the time"); 
+scanf("%d\n , &time"); 
+printf("Enter the number of times interest is compound per year:"); 
+scanf("%d\n", &n); 
+r= r\100; 
+amount = p* ((1+ r\n)), (n*t); 
+compound interest = Amount- Principle; 
+printf("\n final amount after % 21 f years : 21f\n" time, amount); 
+printf ("compound interest "): %21f\n ; compound interest); 
+return 0; 
+}
