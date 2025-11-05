@@ -1,0 +1,22 @@
+#include<stdio.h> 
+#include<math.h> 
+int main (){ 
+float n; 
+float floor = value; 
+float ceil = value; 
+printf("Enter a positive number "); 
+scanf("%f", &n); 
+floor - value = floor(n); 
+ceil - value= ceil(n); 
+printf("The number entered is = %f\n",n); 
+printf("Floor value = %f\n", floor - value); 
+printf("celing value= %f\n", ceil - value); 
+printf("Enter a negative numbers:"); 
+scanf("%f", &n); 
+floor - value= floor(n); 
+ceil - value= ceil(n); 
+printf("The number entered is = %f\n ",n); 
+printf("Floor value = %f\n", floor - value); 
+printf("ceiling value = %f\n ", ceil - value); 
+return 0; 
+}
