@@ -1,0 +1,15 @@
+#include<stdio.h> 
+int main () { 
+int choice; 
+printf("Enter 1 for head or 0 for tail"); 
+scanf("%d\n", &choice); 
+if (choice ==1) { 
+printf ("It is head\n"); 
+} 
+else if (choice ==0){ 
+printf("It is tail\n"); 
+} else { 
+    printf("invalid input! please enter again \n"); 
+} 
+return 0; 
+}
