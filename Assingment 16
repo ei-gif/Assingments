@@ -1,0 +1,21 @@
+#include<stdio.h> 
+int main() { 
+int roll 1= 105; 
+int roll 2= 65; 
+int roll 3= 100; 
+int roll 4= 107; 
+if (roll 1 = 100) { 
+    printf("Roll number 100 is present \n"); 
+} 
+if (roll 2=100);{ 
+printf("Roll number 100 is present\n "); 
+} 
+if (roll 3= 100) { 
+    printf("Roll number 100 is present\n "); 
+} 
+if(roll 4= 100); 
+printf("Roll number 100 is present \n"); 
+} 
+if (roll 1!= 100 && roll 2! 100 && roll 3! 100 & roll 4! 100); 
+return 0; 
+} 
